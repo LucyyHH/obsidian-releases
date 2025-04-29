@@ -16763,6 +16763,13 @@
     "author": "Dee",
     "description": "Stop rainbow folders from changing colors when you scroll through the File explorer.",
     "repo": "dee158/obsidian-rainbow-folders-fixer"
-}
+  },
+  {
+    "id": "drawio-obsidian-multi-format",
+    "name": "Diagrams Multi Format",
+    "author": "LucyyHH",
+    "description": "Draw.io diagrams for Obsidian. This plugin introduces diagrams that can be included within notes or as stand-alone files. Diagrams are created as SVG files (although .drawio extensions are also supported).",
+    "repo": "LucyyHH/drawio-obsidian-multi-format"
+  }
 ]
 
